@@ -24,11 +24,13 @@ list_of_files = [
     f"docs/index.md",
     "init_setup.py",
     "requirements.txt",
+    "requirements_dev.txt",
     "setup.py",
     "setup.cfg",
     "tox.ini",
     "main.py",
-    "mkdocs.yaml"
+    "mkdocs.yaml",
+    "README.md"
 ]
 
 for filepath in list_of_files:

@@ -30,6 +30,8 @@ list_of_files = [
     "tox.ini",
     "main.py",
     "mkdocs.yaml",
+    "Dockerfile",
+    ".dockerignore",
     "README.md"
 ]
 

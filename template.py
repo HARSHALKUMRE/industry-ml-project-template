@@ -22,6 +22,7 @@ list_of_files = [
     f"test/unit/__init__.py",
     f"configs/config.yaml",
     f"docs/index.md",
+    f"notebooks/example.ipynb",
     "init_setup.py",
     "requirements.txt",
     "requirements_dev.txt",

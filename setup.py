@@ -15,7 +15,7 @@ setup(
     author = AUTHOR_USER_NAME,
     description = "This is our first release",
     long_description = long_description,
-    url = f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}"
+    url = f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     author_email = "kumreharshalkumar@gmail.com",
     packages = [SRC_REPO], 
     python_requires = ">=3.8",
